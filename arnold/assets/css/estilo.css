@@ -1,0 +1,27 @@
+.cabecera {
+  background-color: red;
+}
+
+.menu {
+  background-color: yellow;
+}
+.contenedor {
+  background-color: chartreuse;
+  padding: 25px;
+}
+.contenido1 {
+  background-color: chocolate;
+  margin: 3px;
+  padding: 10px;
+}
+.contenido2 {
+  background-color: darkgrey;
+  margin: 3px;
+}
+.lateral {
+  background-color: darkgreen;
+  margin: 3px;
+}
+.pie {
+  background-color: coral;
+}
